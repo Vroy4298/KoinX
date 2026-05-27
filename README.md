@@ -3,7 +3,7 @@
 A highly optimized and fully responsive Tax Loss Harvesting web application designed for KoinX. The application displays capital gains, lists asset holdings, calculates real-time "After Harvesting" gains when holdings are selected, and shows the exact amount of taxes saved.
 
 ## Deployed Link
-- **Vercel/Netlify Deployment**: Ready for immediate deployment.
+https://koin-x-tawny-nine.vercel.app/
 
 ## Key Features
 
